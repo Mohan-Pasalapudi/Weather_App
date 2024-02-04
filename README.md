@@ -3,7 +3,7 @@
 Welcome to the Weather App! This simple web application allows users to check the current weather conditions for any location using a free weather API.
 
 ## Screenshots
-[Include screenshots or GIFs showcasing the app's functionality]![weather app photo1](https://github.com/Mohan-Pasalapudi/Weather_App/assets/93028304/5931b051-b4d0-46c4-a4df-0e1f617cb93d)
+[]![weather app photo1](https://github.com/Mohan-Pasalapudi/Weather_App/assets/93028304/5931b051-b4d0-46c4-a4df-0e1f617cb93d)
 
 ![weather app photo2](https://github.com/Mohan-Pasalapudi/Weather_App/assets/93028304/e861cf21-b552-4f59-8beb-0a54e362afe0)
 ![weather app photo3](https://github.com/Mohan-Pasalapudi/Weather_App/assets/93028304/4528c2fa-1552-413f-bc1f-aaf639218a8d)
